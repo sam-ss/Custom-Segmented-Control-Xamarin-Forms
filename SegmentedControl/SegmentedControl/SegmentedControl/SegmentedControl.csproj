@@ -40,6 +40,7 @@
     <Compile Include="SamplePage.xaml.cs">
       <DependentUpon>SamplePage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="SamplePage1.cs" />
     <Compile Include="SegmentedControl.cs" />
   </ItemGroup>
   <ItemGroup>

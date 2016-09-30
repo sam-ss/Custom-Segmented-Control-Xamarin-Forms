@@ -12,7 +12,7 @@ namespace SegmentedControl
         public App()
         {
             // The root page of your application
-            var content = new SamplePage();
+            var content = new SamplePage1();
             //{
             //    Title = "SegmentedControl",
             //    Content = new StackLayout
